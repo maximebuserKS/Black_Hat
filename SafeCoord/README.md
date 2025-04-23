@@ -1,24 +1,3 @@
-# Black Hat Submission
-## Day 1
-
-```
-git clone https://github.com/antouhou/rs-merkle.git 
-
-```
-
-```
-git clone https://github.com/tangle-network/cggmp-threshold-ecdsa.git 
-
-```
-
-```
-git clone https://github.com/zellular-xyz/pyfrost.git
-```
-
-Scoping command:
-```
-scc --no-cocomo -v --by-file -s files subfolder/src
-```
 ## Rust Installation and Project Setup Guide
 First, you need to install Rust 
 ### Step 1: Install Rust
@@ -100,18 +79,11 @@ You have now installed Rust, created a new project, compiled it, and run it. For
 
 ## Mini-Audit
 
-Please clone the repository with the following command 
-
-```sh
- git clone https://github.com/maximebuserKS/Black_Hat.git
-```
-
-and then move in the project thanks to the command 
+ 
 
 
-```sh
- cd SafeCoord 
-```
+Go inside the SafeCoord folder 
+
 
 ```sh
  cargo run  
